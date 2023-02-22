@@ -9,7 +9,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   color: #ffe81f;
-  background-image: url(assets/background.jpg);
+  background-image: url(background.jpg);
   background-size: contain;
 }
 
